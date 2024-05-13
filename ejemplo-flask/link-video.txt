@@ -1,0 +1,3 @@
+Link para el vídeo de desarrollo de la práctica de flask:
+
+https://youtu.be/Ghv81gppXLA
